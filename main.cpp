@@ -109,7 +109,7 @@ bool sound_interaction_mode = true; // set to false if you wanna trigger the eff
 bool play_music = true;        // set to false if you don't want to hear the music
 const int delay_play=0;
 // Path of the audio file
-string path_track = "../The XX   Intro [long version].wav";
+string path_track = "../../The XX   Intro [long version].wav";
 // Rythm detection
 bool only_beat_mode = false;
 bool low_freq_detection_mode = true;

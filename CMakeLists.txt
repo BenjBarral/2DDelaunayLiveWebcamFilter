@@ -12,4 +12,4 @@ LINK_DIRECTORIES(/usr/local/lib)
 set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 
 ADD_EXECUTABLE(filterViewer main.cpp)
-TARGET_LINK_LIBRARIES(filterViewer ${OpenCV_LIBS} sfml-audio sfml-system)# ooura_fft aquila)
+TARGET_LINK_LIBRARIES(filterViewer ${OpenCV_LIBS} sfml-audio sfml-system aquila)
