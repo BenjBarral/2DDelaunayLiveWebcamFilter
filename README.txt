@@ -1,5 +1,3 @@
-![Readme image](images-and-videos/DelaunayGitImage.png)
-
 A program that creates an artistic image filter based on Delaunay triangulation. The application takes the webcam input and applies the filter, in real-time.
 The filter distorts through "wave-like" effects, in synchronization with musical input.
 The distortions can also be triggered manually via keys.
@@ -20,4 +18,6 @@ Libraries required :
 -OpenCV : https://opencv.org/releases/
 -Aquila + SFML (signal processing) : https://aquila-dsp.org/download/
 Change the paths to the include and library paths in the CMakeLists.txt : LINL_DIRECTORIES and INCLUDE_DIRECTORIES.
+
+![Readme image](images-and-videos/DelaunayGitImage.png)
 
