@@ -1,4 +1,4 @@
-![](images-and-videos/Video.mp4)
+![](images-and-videos/giphy.gif)
 
 A program that creates an artistic image filter based on Delaunay triangulation. The application takes the webcam input and applies the filter, in real-time.
 The filter distorts through "wave-like" effects, in synchronization with musical input.
