@@ -19,5 +19,5 @@ Libraries required :
 -Aquila + SFML (signal processing) : https://aquila-dsp.org/download/
 Change the paths to the include and library paths in the CMakeLists.txt : LINL_DIRECTORIES and INCLUDE_DIRECTORIES.
 
-![Readme image](images-and-videos/DelaunayGitImage.png)
+![](DelaunayGitImage.png)
 
