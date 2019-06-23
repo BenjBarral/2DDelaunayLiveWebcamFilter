@@ -20,6 +20,6 @@ Use the following keys to interact with the different visual effects :
 Run the ```filiterViewer``` target, and the UI will show.
 Put the path of the track you want to play in the ```path_track``` variable (MP3,WAV file).
 ### Libraries required : 
--[OpenCV](https://opencv.org/releases/)
--[Aquila + SFML]( https://aquila-dsp.org/download/) (signal processing)
+ -[OpenCV](https://opencv.org/releases/)
+ -[Aquila + SFML]( https://aquila-dsp.org/download/) (signal processing)
 Change the paths to the include and library paths in the CMakeLists.txt : LINK_DIRECTORIES and INCLUDE_DIRECTORIES.
